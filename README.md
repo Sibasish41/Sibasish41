@@ -52,6 +52,6 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-  <a href="mailto:sibasish41@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/sibasish-mallick" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:sb097942@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
